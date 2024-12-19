@@ -1,4 +1,4 @@
-**Project Name**: Machine Learning-based Classification and Principal Component Analysis of Turkish Dry Bean Varieties  
+## **Project Name**: Machine Learning-based Classification and Principal Component Analysis of Turkish Dry Bean Varieties  
 **Course Name**: Advanced Statistical Approaches to Quality (INSE 6220)
 
 ## Abstract
